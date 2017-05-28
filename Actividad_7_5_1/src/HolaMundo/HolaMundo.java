@@ -12,7 +12,10 @@ package HolaMundo;
  */
 public class HolaMundo {
 public static void main (Strinbg [] args){
+int numero;
+String cadena="";
 System.out.println("Hola Mundo");
+
 
 }
 }
