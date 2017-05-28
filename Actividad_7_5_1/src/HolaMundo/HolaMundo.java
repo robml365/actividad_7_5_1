@@ -4,19 +4,12 @@
  * and open the template in the editor.
  */
 
-package actividad_7_5_1;
+package HolaMundo;
 
 /**
  *
  * @author pablo
  */
-public class Actividad_7_5_1 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+public class HolaMundo {
 
 }
