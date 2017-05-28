@@ -11,5 +11,8 @@ package HolaMundo;
  * @author pablo
  */
 public class HolaMundo {
+public static void main (Strinbg [] args){
+System.out.println("Hola Mundo");
 
+}
 }
